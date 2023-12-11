@@ -11,8 +11,10 @@ Otherwise, this account is only for following projects and downloading compiled 
 
 ### Coding
 
-I cannot code anything besides (basic) HTML and CSS yet.  
-I want to learn but I'm lazy and usually busy.
+Some HTML and CSS.
+Some Java, some C#.
+A tiny bit of Python too.
+Other than that, nothing else.
 
 ### Affiliations
 
